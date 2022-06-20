@@ -8,7 +8,7 @@
     "access": "public"
   },
   "dependencies": {
-    "@dsoaress/eslint-config": "1.0.0",
+    "@dsoaress/eslint-config": "latest",
     "@typescript-eslint/eslint-plugin": "5.28.0",
     "@typescript-eslint/parser": "5.28.0"
   },
