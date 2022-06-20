@@ -3,6 +3,6 @@
   "author": "Daniel Soares <daniel.soares@me.com>",
   "license": "MIT",
   "devDependencies": {
-    "lerna": "^5.1.4"
+    "lerna": "5.1.4"
   }
 }
