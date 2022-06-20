@@ -1,6 +1,6 @@
 {
   "name": "@dsoaress/prettier-config",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "author": "Daniel Soares <daniel.soares@me.com>",
   "license": "MIT",
   "main": "prettier-config.js",
