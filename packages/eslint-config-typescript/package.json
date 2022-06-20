@@ -1,0 +1,19 @@
+{
+  "name": "@dsoaress/eslint-config-typescript",
+  "version": "1.0.0",
+  "author": "Daniel Soares <daniel.soares@me.com>",
+  "license": "MIT",
+  "main": "eslint-config-typescript.js",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "@dsoaress/eslint-config": "1.0.0",
+    "@typescript-eslint/eslint-plugin": "5.28.0",
+    "@typescript-eslint/parser": "5.28.0"
+  },
+  "devDependencies": {
+    "eslint": "8.18.0",
+    "typescript": "4.7.4"
+  }
+}
