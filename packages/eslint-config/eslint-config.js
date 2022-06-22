@@ -1,8 +1,8 @@
 'use strict';
 
 module.exports = {
-  extends: ['plugin:prettier/recommended'],
-  plugins: ['prettier', 'simple-import-sort'],
+  extends: ['plugin:sonarjs/recommended', 'plugin:prettier/recommended'],
+  plugins: ['sonarjs', 'prettier', 'simple-import-sort'],
   rules: {
     'prettier/prettier': 'error',
     'simple-import-sort/imports': 'error',
