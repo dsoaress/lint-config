@@ -1,6 +1,6 @@
 {
   "name": "@dsoaress/eslint-config-react",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "author": "Daniel Soares <daniel.soares@me.com>",
   "license": "MIT",
   "main": "eslint-config-react.js",

@@ -1,6 +1,6 @@
 {
   "name": "@dsoaress/eslint-config-typescript",
-  "version": "2.0.1",
+  "version": "2.0.2",
   "author": "Daniel Soares <daniel.soares@me.com>",
   "license": "MIT",
   "main": "eslint-config-typescript.js",
