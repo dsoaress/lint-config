@@ -3,13 +3,14 @@
 
 
 "@dsoaress/eslint-config@latest":
-  version "1.0.0"
-  resolved "https://registry.yarnpkg.com/@dsoaress/eslint-config/-/eslint-config-1.0.0.tgz#bbbe3cbf18d2b30345cb42c322500b5bd0ad7ff2"
-  integrity sha512-IlGNSTIfXA9as1id8vt5Ut+lAFrH8FWEFIo3VOmwTxQN248sgQ4q8Ui12nyqVqUlSwdkq+ee5SjZ00+8aRc9Nw==
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/@dsoaress/eslint-config/-/eslint-config-1.1.1.tgz#cd912b38b2f09b6037494f077dc2a9a0aef78432"
+  integrity sha512-1CKgEaOthezA3uKBTbWWgEGEa78JDQ6luaBTXpr4HqXKsctOu6XpkAA4KdGUXffBMnZT2LKSFZG805OYv7FaWA==
   dependencies:
     eslint-config-prettier "8.5.0"
     eslint-plugin-prettier "4.0.0"
     eslint-plugin-simple-import-sort "7.0.0"
+    eslint-plugin-sonarjs "0.13.0"
 
 "@eslint/eslintrc@^1.3.0":
   version "1.3.0"
@@ -294,6 +295,11 @@ eslint-plugin-simple-import-sort@7.0.0:
   version "7.0.0"
   resolved "https://registry.yarnpkg.com/eslint-plugin-simple-import-sort/-/eslint-plugin-simple-import-sort-7.0.0.tgz#a1dad262f46d2184a90095a60c66fef74727f0f8"
   integrity sha512-U3vEDB5zhYPNfxT5TYR7u01dboFZp+HNpnGhkDB2g/2E4wZ/g1Q9Ton8UwCLfRV9yAKyYqDh62oHOamvkFxsvw==
+
+eslint-plugin-sonarjs@0.13.0:
+  version "0.13.0"
+  resolved "https://registry.yarnpkg.com/eslint-plugin-sonarjs/-/eslint-plugin-sonarjs-0.13.0.tgz#c34d140cc90abaaed38f5a5201a2ccdebe398862"
+  integrity sha512-t3m7ta0EspzDxSOZh3cEOJIJVZgN/TlJYaBGnQlK6W/PZNbWep8q4RQskkJkA7/zwNpX0BaoEOSUUrqaADVoqA==
 
 eslint-scope@^5.1.1:
   version "5.1.1"
