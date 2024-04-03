@@ -11,7 +11,7 @@
     "eslint-config-prettier": "8.5.0",
     "eslint-plugin-prettier": "4.0.0",
     "eslint-plugin-simple-import-sort": "7.0.0",
-    "eslint-plugin-sonarjs": "0.13.0"
+    "eslint-plugin-sonarjs": "0.25.1"
   },
   "devDependencies": {
     "eslint": "8.18.0",
