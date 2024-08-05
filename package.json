@@ -9,7 +9,7 @@
     "@dsoaress/eslint-config": "latest",
     "@dsoaress/prettier-config": "latest",
     "eslint": "8.18.0",
-    "lerna": "5.1.6",
+    "lerna": "8.1.8",
     "prettier": "2.7.1"
   },
   "prettier": "@dsoaress/prettier-config"
